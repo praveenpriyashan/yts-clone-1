@@ -7,7 +7,7 @@ The purpose of this project is to improve the user interface by cloning the YTS 
 ## Main Features
 
 -  adding hover fetchers for card
-- ![Project Logo](https://github.com/praveen-code-here/addReadMe.MDFilePRoject/blob/main/images/yts1.png)
+- ![Project Logo](https://github.com/praveenpriyashan/yts-clone-1/blob/edit-branch/images/yts1.png)
 
 ## Technologies Used
 
